@@ -1,0 +1,38 @@
+{
+	"instance" : {
+		"findString:ifPresent:" : "za 12/22/2008 19:33",
+		"findAllStrings:stream:" : "za 12/22/2008 19:10",
+		"findAllTags:stream:" : "za 12/22/2008 22:41",
+		"isSelfClosing" : "za 12/10/2008 16:24",
+		"initialize" : "za 12/10/2008 16:21",
+		"isTag" : "za 12/9/2008 14:52",
+		"findChildString:" : "za 12/23/2008 04:56",
+		"childrenDo:" : "za 12/21/2008 13:48",
+		"findTag:ifPresent:" : "za 12/21/2008 13:56",
+		"name" : "za 12/7/2008 04:24",
+		"printAttributeValue:on:" : "za 12/24/2008 15:53",
+		"ifTag:" : "za 12/21/2008 13:47",
+		"size" : "za 12/22/2008 22:54",
+		"beParentOf:" : "za 12/11/2008 00:34",
+		"name:" : "za 12/7/2008 04:24",
+		"attributeAt:put:" : "za 12/7/2008 05:52",
+		"string" : "za 12/22/2008 22:51",
+		"beSelfClosing" : "za 12/10/2008 16:24",
+		"childTagsDo:" : "za 12/21/2008 13:47",
+		"findString:" : "za 12/22/2008 18:34",
+		"findAllStrings:" : "za 12/22/2008 19:02",
+		"findTag:" : "za 12/22/2008 22:41",
+		"childStringsDo:" : "za 12/22/2008 19:28",
+		"childAt:" : "za 12/9/2008 14:15",
+		"findChildTag:" : "za 12/23/2008 04:55",
+		"attributeAt:" : "za 12/10/2008 16:55",
+		"findAllTags:" : "za 12/22/2008 22:41",
+		"addChild:" : "za 12/9/2008 14:14",
+		"printOn:" : "za 12/24/2008 15:51",
+		"doesNotUnderstand:" : "za 12/21/2008 13:57"
+	},
+	"class" : {
+		"named:parent:previous:" : "za 12/10/2008 16:24",
+		"named:" : "za 12/22/2008 17:56"
+	}
+}
