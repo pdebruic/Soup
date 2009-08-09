@@ -1,10 +1,12 @@
 {
 	"instance" : {
-		"findString:ifPresent:" : "za 12/22/2008 19:33",
-		"findAllStrings:stream:" : "za 12/22/2008 19:10",
 		"findAllTags:stream:" : "za 12/22/2008 22:41",
-		"isSelfClosing" : "za 12/10/2008 16:24",
+		"findAllStrings:stream:" : "za 12/22/2008 19:10",
+		"findAllTagsByClass:stream:" : "CB 8/9/2009 17:13",
+		"findAllTagsByClass:" : "CB 8/9/2009 17:10",
+		"findString:ifPresent:" : "za 12/22/2008 19:33",
 		"initialize" : "za 12/10/2008 16:21",
+		"isSelfClosing" : "za 12/10/2008 16:24",
 		"isTag" : "za 12/9/2008 14:52",
 		"findChildString:" : "za 12/23/2008 04:56",
 		"childrenDo:" : "za 12/21/2008 13:48",
