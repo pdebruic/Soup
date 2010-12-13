@@ -1,5 +1,6 @@
 finding tags
 testFindTag
+	
 	| soup body |
 	soup := Soup fromString: '<body><p>abc<br id="1"/>def<br id="2"/><span class="c">xyz</span></p></body>'.
 	body := soup body.

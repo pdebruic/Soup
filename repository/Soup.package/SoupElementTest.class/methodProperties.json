@@ -1,22 +1,24 @@
 {
 	"instance" : {
-		"testFindPreviousSiblingTags" : "za 12/22/2008 20:24",
-		"testNextSibling" : "za 12/26/2008 22:33",
-		"testFindPreviousString" : "za 12/22/2008 22:28",
 		"testFindNextString" : "za 12/22/2008 22:28",
+		"testFindNextTag" : "za 12/22/2008 22:20",
+		"testFindPreviousSiblingStrings" : "za 12/22/2008 20:22",
+		"testFindPreviousString" : "za 12/22/2008 22:28",
+		"testFindNextSiblingTag" : "za 12/22/2008 22:18",
 		"testFindPreviousSiblingTag" : "za 12/22/2008 22:12",
 		"testFindNextTags" : "za 12/22/2008 22:20",
-		"testFindNextSiblingTag" : "za 12/22/2008 22:18",
-		"testFindNextSiblingTags" : "za 12/22/2008 20:13",
-		"testFindPreviousTag" : "za 12/22/2008 22:20",
-		"testFindNextSiblingStrings" : "za 12/22/2008 20:17",
-		"testFindPreviousSiblingStrings" : "za 12/22/2008 20:22",
-		"testFindPreviousTags" : "za 12/22/2008 22:21",
+		"testFindNextSiblingVersusFindTags" : "sd 12/11/2010 17:37",
+		"testAccessingText" : "sd 12/11/2010 15:17",
+		"testNextSibling" : "za 12/26/2008 22:33",
 		"testFindPreviousSiblingString" : "za 12/22/2008 22:14",
-		"testFindNextTag" : "za 12/22/2008 22:20",
-		"testFindPreviousStrings" : "za 12/22/2008 22:32",
+		"testFindNextSiblingString" : "za 12/22/2008 22:15",
+		"testFindPreviousTags" : "za 12/22/2008 22:21",
+		"testFindPreviousTag" : "za 12/22/2008 22:20",
+		"testFindPreviousSiblingTags" : "za 12/22/2008 20:24",
 		"testFindNextStrings" : "za 12/22/2008 22:27",
-		"testFindNextSiblingString" : "za 12/22/2008 22:15"
+		"testFindPreviousStrings" : "za 12/22/2008 22:32",
+		"testFindNextSiblingStrings" : "za 12/22/2008 20:17",
+		"testFindNextSiblingTags" : "sd 12/11/2010 17:38"
 	},
 	"class" : { }
 }
