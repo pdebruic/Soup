@@ -2,6 +2,7 @@
 	"instance" : {
 		"findPreviousTags:" : "sd 12/11/2010 16:52",
 		"beNextSiblingOf:" : "za 12/3/2008 18:43",
+		"@" : "CamilloBruni 9/21/2011 15:09",
 		"findNextTags:stream:" : "za 12/22/2008 22:45",
 		"findNextSiblingString:" : "za 12/22/2008 22:41",
 		"previousSibling" : "za 12/22/2008 17:47",
@@ -16,6 +17,7 @@
 		"next:" : "za 12/3/2008 18:45",
 		"createFindStringBlock:" : "za 3/9/2009 16:45",
 		"parent" : "za 12/22/2008 18:43",
+		"hasAttribute:" : "CamilloBruni 9/21/2011 15:09",
 		"isSoup" : "za 12/22/2008 19:18",
 		"findPreviousSiblingStrings:stream:" : "za 12/22/2008 20:20",
 		"bePreviousOf:" : "za 12/22/2008 19:46",
