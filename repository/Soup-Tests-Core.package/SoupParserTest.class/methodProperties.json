@@ -8,6 +8,7 @@
 		"testEntitiesInAttributeValues" : "za 12/25/2008 06:04",
 		"testWhitespaceInDeclaration" : "za 12/24/2008 19:47",
 		"assertSoupFrom:printsAs:" : "za 12/24/2008 16:02",
+		"testNamespaceNode" : "CamilloBruni 9/21/2011 16:11",
 		"testSelfClosingTag" : "za 12/23/2008 06:09",
 		"parseOtherDeclaration:" : "za 12/25/2008 06:08",
 		"testEntityReplacement" : "za 12/25/2008 06:53",
